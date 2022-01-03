@@ -1,0 +1,15 @@
+https://automaticaddison.com/how-to-create-an-initial-pose-and-goal-publisher-in-ros/
+ros 좌표 획득 소스
+
+
+https://answers.ros.org/question/296011/sending-initial-pose-to-the-navigation-stack/
+amcl 수정하는 방법이라는데.... 
+
+https://stackoverflow.com/questions/61380266/initial-pose-of-robot-in-ros-navigation-stack
+
+
+http://wiki.ros.org/ROS/Tutorials/BuildingPackages
+ros 위키
+
+https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation
+로보티스 매뉴얼
